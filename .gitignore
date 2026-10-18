@@ -1,0 +1,6 @@
+fastapi_env/
+__pycache__/
+*.pyc
+.pytest_cache/
+test-report*.xml
+.DS_Store
